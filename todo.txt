@@ -1,0 +1,6 @@
+# to do list
+1. Learn git basics
+2. create git hub account
+3. practice commits and pushes
+4. understand branching
+5. try pull requests
